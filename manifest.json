@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "VSYS Gold Wallet",
+  "description": "Fast and very simple v.systems wallet.",
+  "version": "0.0.7",
+  "browser_action": {
+    "default_icon": "vsys-logo.png",
+    "default_popup": "index.html"
+  },
+"permissions" : [
+    "fileBrowserHandler"
+  ]
+}  
